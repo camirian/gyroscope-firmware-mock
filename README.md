@@ -6,12 +6,12 @@
 
 ---
 
-## 🎯 Resume Claims Covered
+## 🎯 Core Technical Competencies
 
-| Claim ID   | Capability                           | Deliverable                                                                   |
-| :--------- | :----------------------------------- | :---------------------------------------------------------------------------- |
-| **CPS_NG_01** | Hardware-Software Interface & ASIC specifications | Definition of a DO-254 compliant ICD for a mocked IMU peripheral. |
-| **CPS_NG_02** | RvC Frameworks & Hardware Qual | Demonstration of automated parsing of test logs back to baseline requirements. |
+| Capability                           | Deliverable                                                                   |
+| :----------------------------------- | :---------------------------------------------------------------------------- |
+| Hardware-Software Interface & ASIC specifications | Definition of a DO-254 compliant ICD for a mocked IMU peripheral. |
+| RvC Frameworks & Hardware Qual | Demonstration of automated parsing of test logs back to baseline requirements. |
 
 ---
 
