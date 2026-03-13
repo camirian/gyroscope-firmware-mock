@@ -2,7 +2,7 @@
 
 **Attitude Subsystem ASIC & Gyroscope Support Electronics**
 
-> A mocked repository demonstrating DO-254 compliant requirements tracing, Interface Control definitions (ICD), and Requirement vs. Capability (RvC) automation for aerospace Cyber-Physical systems.
+> A mocked system demonstrating DO-254 compliant requirements tracing, Interface Control definitions (ICD), and Requirement vs. Capability (RvC) automation for aerospace Cyber-Physical systems.
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## 🏗️ Technical Baseline
 
-This repository establishes the technical baseline for a hypothetical 3-axis MEMS Gyroscope integration:
+This project establishes the technical baseline for a hypothetical 3-axis MEMS Gyroscope integration:
 
 *   **`docs/REQUIREMENTS.md`**: The formal requirements specification (DO-254 DAL A baseline).
 *   **`docs/ICD.md`**: The Hardware-Software Interface Control Document mapping SPI registers to physical properties.
