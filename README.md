@@ -4,6 +4,8 @@
 
 > A mocked system demonstrating DO-254 compliant requirements tracing, Interface Control definitions (ICD), and Requirement vs. Capability (RvC) automation for aerospace Cyber-Physical systems.
 
+[View the Structural Roadmap](ROADMAP.md)
+
 ---
 
 ## 🎯 Core Technical Competencies
