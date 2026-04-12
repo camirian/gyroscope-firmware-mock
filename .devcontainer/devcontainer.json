@@ -1,0 +1,16 @@
+{
+    "name": "Gyroscope Firmware Mock (Python 3.10)",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-python.vscode-pylance",
+                "DavidAnson.vscode-markdownlint"
+            ]
+        }
+    }
+}
